@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\makem\\Documents\\GitHub\\UnrealLearningKit\\UnrealTutorial\\Source\\UnrealTutorial\\UnrealTutorial.Build.cs",
+		"C:\\Users\\makem\\Documents\\GitHub\\UnrealLearningKit\\UnrealTutorial\\Source\\UnrealTutorial.Target.cs",
+		"C:\\Users\\makem\\Documents\\GitHub\\UnrealLearningKit\\UnrealTutorial\\Source\\UnrealTutorialEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealTutorial.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealTutorial.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealTutorialEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealTutorial">
+      <UniqueIdentifier>{7A471D8D-185D-38AA-A882-12CB4825D2FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealTutorial\UnrealTutorial.Build.cs">
+      <Filter>Source\UnrealTutorial</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealTutorial\UnrealTutorial.cpp">
+      <Filter>Source\UnrealTutorial</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealTutorial\UnrealTutorial.h">
+      <Filter>Source\UnrealTutorial</Filter>
+    </ClInclude>
+    <Filter Include="Source\UnrealTutorial\TP_ThirdPerson">
+      <UniqueIdentifier>{B3ADB27B-3300-3DAE-805D-EAFAA70D59A7}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\UnrealTutorial\TP_ThirdPerson\TP_ThirdPerson.h">
+      <Filter>Source\UnrealTutorial\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealTutorial\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+      <Filter>Source\UnrealTutorial\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealTutorial\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+      <Filter>Source\UnrealTutorial\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealTutorial\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+      <Filter>Source\UnrealTutorial\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealTutorial\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+      <Filter>Source\UnrealTutorial\TP_ThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

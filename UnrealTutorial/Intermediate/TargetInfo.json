@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealTutorial",
+			"Path": "C:\\Users\\makem\\Documents\\GitHub\\UnrealLearningKit\\UnrealTutorial\\Source\\UnrealTutorial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealTutorialEditor",
+			"Path": "C:\\Users\\makem\\Documents\\GitHub\\UnrealLearningKit\\UnrealTutorial\\Source\\UnrealTutorialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
